@@ -32,7 +32,7 @@ With a strong foundation in Cloud Computing (BS) I bridge the gap between robust
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)-->
 
 ### 📫 Let's Connect
-*   [LinkedIn](www.linkedin.com/in/brandon-ferrell-29102)
+*   [LinkedIn](http://www.linkedin.com/in/brandon-ferrell-29102)
 
 
 <!--
